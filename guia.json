@@ -1,0 +1,152 @@
+{
+    "categorias": [
+        {
+            "id": "itens",
+            "titulo": "🎒 Itens",
+            "imagem": "cat_itens",
+            "itens": [
+                {
+                    "nome": "Machado",
+                    "imagem": "item_machado",
+                    "descricao": "Ferramenta essencial pra cortar madeira. Sem ele, você não consegue construir quase nada no início.",
+                    "dicas": [
+                        "Sempre tenha 1 no inventário",
+                        "Pode ser craftado com 3x Madeira + 2x Corda",
+                        "Guarde uma reserva pra emergências"
+                    ]
+                },
+                {
+                    "nome": "Picareta",
+                    "imagem": "item_picareta",
+                    "descricao": "Usada pra minerar pedra e minérios. Essencial pra evoluir do nível madeira pro nível pedra.",
+                    "dicas": [
+                        "Necessária pra fazer estruturas de pedra",
+                        "Sempre tenha uma no inventário",
+                        "Durabilidade cai rápido, faça várias"
+                    ]
+                },
+                {
+                    "nome": "Comida",
+                    "imagem": "item_comida",
+                    "descricao": "Recupera vida e fome do personagem. Sem comer, você morre em pouco tempo.",
+                    "dicas": [
+                        "Sempre carregue pelo menos 5 unidades",
+                        "Cozinhe a comida pra recuperar mais vida",
+                        "Guarde comida em baús pra emergência"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "estruturas",
+            "titulo": "🏠 Estruturas",
+            "imagem": "cat_estruturas",
+            "itens": [
+                {
+                    "nome": "Parede de Madeira",
+                    "imagem": "estrutura_parede_madeira",
+                    "descricao": "Estrutura básica pra começar uma base. Fraca mas rápida de construir.",
+                    "dicas": [
+                        "100 HP — fácil de destruir",
+                        "Use só no início",
+                        "Troque por pedra assim que puder"
+                    ]
+                },
+                {
+                    "nome": "Parede de Pedra",
+                    "imagem": "estrutura_parede_pedra",
+                    "descricao": "Estrutura intermediária. Resistente contra explosivos improvisados.",
+                    "dicas": [
+                        "300 HP — aguenta mais dano",
+                        "Ideal pra base secundária",
+                        "Precisa de picareta pra construir"
+                    ]
+                },
+                {
+                    "nome": "Porta N3",
+                    "imagem": "estrutura_porta_n3",
+                    "descricao": "Porta reforçada. Aguenta bem contra raides básicos.",
+                    "dicas": [
+                        "300 HP",
+                        "Sempre coloque 2 portas seguidas",
+                        "Combine com armadilhas"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "raid",
+            "titulo": "🎯 Raid",
+            "imagem": "cat_raid",
+            "itens": [
+                {
+                    "nome": "Explosivo Improvisado",
+                    "imagem": "explosivo_improvisado",
+                    "descricao": "Explosivo básico. Custo baixo, dano médio. Ideal pra raides pequenos.",
+                    "dicas": [
+                        "50 de dano por unidade",
+                        "Precisa de 100x Pólvora",
+                        "Use em portas de madeira"
+                    ]
+                },
+                {
+                    "nome": "Explosivo Temporizador (C4)",
+                    "imagem": "explosivo_temporizador",
+                    "descricao": "Explosivo intermediário. Alto dano, custo médio. Um dos mais usados.",
+                    "dicas": [
+                        "150 de dano por unidade",
+                        "Precisa de Material Explosivo",
+                        "Ideal contra paredes de pedra"
+                    ]
+                },
+                {
+                    "nome": "Míssil",
+                    "imagem": "missil",
+                    "descricao": "Explosivo avançado. Dano alto e área de efeito. Melhor opção pra raid grande.",
+                    "dicas": [
+                        "114 de dano por unidade",
+                        "Precisa de muito Material Explosivo",
+                        "Ideal contra paredes de ferro"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "combate",
+            "titulo": "⚔️ Combate",
+            "imagem": "cat_combate",
+            "itens": [
+                {
+                    "nome": "Arma Branca",
+                    "imagem": "arma_branca",
+                    "descricao": "Armas de curta distância. Dano alto mas precisa chegar perto.",
+                    "dicas": [
+                        "Use em emboscadas",
+                        "Silenciosa, não chama atenção",
+                        "Boa contra zumbis"
+                    ]
+                },
+                {
+                    "nome": "Arma de Fogo",
+                    "imagem": "arma_fogo",
+                    "descricao": "Armas de longa distância. Alto dano mas consome munição.",
+                    "dicas": [
+                        "Economize munição",
+                        "Use pra defesa de base",
+                        "Combine com mira do app"
+                    ]
+                },
+                {
+                    "nome": "Defesa de Base",
+                    "imagem": "defesa_base",
+                    "descricao": "Estratégias pra defender sua base contra outros jogadores.",
+                    "dicas": [
+                        "Construa em locais escondidos",
+                        "Use armadilhas",
+                        "Sempre tenha rotas de fuga"
+                    ]
+                }
+            ]
+        }
+    ]
+}
