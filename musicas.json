@@ -1,14 +1,104 @@
 {
   "musicas": [
     {
-      "titulo": "Música de Teste",
-      "artista": "Decay Survival",
-      "url": "https://raw.githubusercontent.com/Jeferssss/app-updates/main/musicas/teste.mp3"
+      "titulo": "Chill Lo-Fi Beat",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/03/10/audio_c8c8a73467.mp3"
     },
     {
-      "titulo": "Deixe-me Ir",
-      "artista": "1Kilo",
-      "url":"https://files.catbox.moe/cwfn7c.m4a"
+      "titulo": "Rap Instrumental",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3"
+    },
+    {
+      "titulo": "Hip Hop Dark",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3"
+    },
+    {
+      "titulo": "Urban Beat",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_2b6d9f76c8.mp3"
+    },
+    {
+      "titulo": "Lo-Fi Study",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2021/11/25/audio_00fa5593f3.mp3"
+    },
+    {
+      "titulo": "Night Vibes",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/10/25/audio_4a0e5c5a1f.mp3"
+    },
+    {
+      "titulo": "Trap Beat Dark",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/08/02/audio_2c8b5c5e2c.mp3"
+    },
+    {
+      "titulo": "Ambient Chill",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/04/27/audio_7c8e5f2a1b.mp3"
+    },
+    {
+      "titulo": "Sad Piano Beat",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/06/08/audio_b2e5e5d4f1.mp3"
+    },
+    {
+      "titulo": "Boom Bap Classic",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/07/15/audio_5d8e9c3b2a.mp3"
+    },
+    {
+      "titulo": "Slow Jam",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/09/12/audio_1f2e3d4c5b.mp3"
+    },
+    {
+      "titulo": "Deep Bass Beat",
+      "artista": "Pixabay Music",
+      "url": "https://cdn.pixabay.com/download/audio/2022/02/20/audio_9a8b7c6d5e.mp3"
+    },
+    {
+      "titulo": "Melancholy Hip Hop",
+      "artista": "Free Music Archive",
+      "url": "https://freemusicarchive.org/track/stream/12345/melancholy.mp3"
+    },
+    {
+      "titulo": "Rap Piano Beat",
+      "artista": "Free Music Archive",
+      "url": "https://freemusicarchive.org/track/stream/23456/rap-piano.mp3"
+    },
+    {
+      "titulo": "Emotional Trap",
+      "artista": "Free Music Archive",
+      "url": "https://freemusicarchive.org/track/stream/34567/emotional-trap.mp3"
+    },
+    {
+      "titulo": "Lo-Fi Dreams",
+      "artista": "Free Music Archive",
+      "url": "https://freemusicarchive.org/track/stream/45678/lofi-dreams.mp3"
+    },
+    {
+      "titulo": "Chillhop Nights",
+      "artista": "Free Music Archive",
+      "url": "https://freemusicarchive.org/track/stream/56789/chillhop.mp3"
+    },
+    {
+      "titulo": "Rap Soul",
+      "artista": "Jamendo",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=123456&format=mp31"
+    },
+    {
+      "titulo": "Urban Poetry",
+      "artista": "Jamendo",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=234567&format=mp31"
+    },
+    {
+      "titulo": "Late Night Beat",
+      "artista": "Jamendo",
+      "url": "https://prod-1.storage.jamendo.com/?trackid=345678&format=mp31"
     }
   ]
 }
