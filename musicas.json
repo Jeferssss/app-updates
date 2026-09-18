@@ -4,6 +4,11 @@
       "titulo": "Música de Teste",
       "artista": "Decay Survival",
       "url": "https://raw.githubusercontent.com/Jeferssss/app-updates/main/musicas/teste.mp3"
+    },
+    {
+      "titulo": "Deixe-me Ir",
+      "artista": "1Kilo",
+      "url": "https://raw.githubusercontent.com/Jeferssss/app-updates/main/musicas/teste1.m4a"
     }
   ]
 }
