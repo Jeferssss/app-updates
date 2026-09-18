@@ -1,0 +1,9 @@
+{
+  "musicas": [
+    {
+      "titulo": "Música de Teste",
+      "artista": "Decay Survival",
+      "url": "https://raw.githubusercontent.com/Jeferssss/app-updates/main/musicas/teste.mp3"
+    }
+  ]
+}
